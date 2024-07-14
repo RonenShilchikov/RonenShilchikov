@@ -1,4 +1,4 @@
-
+![Design and Development](https://github.com/RonenShilchikov/RonenShilchikov/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Ronen Shilchikov</h1>
 <h3 align="center">A passionate computer science student</h3>
 
